@@ -41,6 +41,8 @@
     }
 ```
 7. Click on `create item`.
-  
+
+# Architecture Diagram
+![architecture-diagram](img/gunshotarchitecture.png)
 
 
